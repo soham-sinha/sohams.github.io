@@ -1,0 +1,22 @@
+
+---
+title: "Soham Sinha, MS"
+---
+
+
+```{r, out.width = '30%', fig.align="center", echo = FALSE}
+library(knitr)
+include_graphics("images/ss.jpg")
+```
+
+
+I am Research Assistant (RA) in the Department of Population Health Sciences at the Joan and Sanford I Weill Medical College of Cornell University. In my current role, I am working with Dr. Ravi Sharaf, MD on projects exploring cost-effective ways to screen the population for germline cancers, and I am also working on projects modelling the incidence of colorectal cancer in the US population.
+
+In addition to being a RA, I am also a part-time Teaching Associate in the department. In this role, I primarily teach students in the MS programs in Population Health Sciences and students in the executive M.B.A./M.S. in Healthcare Leadership program offered jointly by Cornell's Samuel Curtis Johnson Graduate School of Management and the Weill Cornell Graduate School of Medical Sciences.
+
+
+I am an economist by training. I completed a Masters degree in Health Policy and Economics from the Weill Cornell Graduate School of Medical Sciences. Prior to this, I got a Master of Science in Economics from the London School of Economics, and a Bachelor of Science in Economics from the University of Manchester. 
+
+
+
+My full CV is available [here](files/ss.pdf).

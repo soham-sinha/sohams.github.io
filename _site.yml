@@ -1,0 +1,13 @@
+name: "Soham"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:<sos4005@med.cornell.edu>
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/soham1702
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/public-profile/in/sohamsinha1
+output:
+  html_document
